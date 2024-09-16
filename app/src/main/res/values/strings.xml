@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movemate</string>
+    <string name="home">Home</string>
+    <string name="your_location">Your location</string>
+    <string name="tracking">Tracking</string>
+    <string name="shipment_number">Shipment Number</string>
+    <string name="sender">Sender</string>
+    <string name="time">Time</string>
+    <string name="add_stop">Add Stop</string>
+    <string name="status">Status</string>
+    <string name="receiver">Receiver</string>
+    <string name="available_vehicles">Available Vehicles</string>
+    <string name="enter_the_receipt_number_">Enter the receipt number...</string>
+    <string name="shipment_history">Shipment History</string>
+    <string name="shipments">Shipments</string>
+    <string name="calculate">Calculate</string>
+    <string name="destination">Destination</string>
+    <string name="sender_location">Sender location</string>
+    <string name="receiver_location">Receiver location</string>
+    <string name="approx_weight">Approx weight</string>
+    <string name="packaging">Packaging</string>
+    <string name="what_are_you_sending_">What are you sending?</string>
+    <string name="box">Box</string>
+    <string name="categories">Categories</string>
+    <string name="total_estimated_amount">Total Estimated Amount</string>
+    <string name="estimated_amount_message">This amount is estimated, this will change if you change your location or weight</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="shipment">Shipment</string>
+    <string name="profile">Profile</string>
+    <string name="work_in_progress">Work in Progress</string>
+</resources>
